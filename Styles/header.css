@@ -185,7 +185,8 @@ input:focus~label{
 }
 .upload-icon:hover,
 .youtube-apps-icon:hover,
-.notifications-icon:hover{
+.notifications-icon:hoverhover,
+.voice-icon:hover{
     background-color: lightgray;
     padding: 6px 6px;
     border-radius: 20px;
